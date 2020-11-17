@@ -1,2 +1,4 @@
-# firmware-asus-tf101
-Firmware Asus Eee Pad Transformer TF101
+# Firmware Asus TF101
+Firmware for Asus Eee Pad Transformer TF101
+
+Includes WiFi and Bluetooth
